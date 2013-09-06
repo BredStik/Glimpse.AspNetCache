@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>https://github.com/BredStik/Glimpse.AspNetCache/tree/master</projectUrl>
+    <projectUrl>https://github.com/BredStik/Glimpse.AspNetCache</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial release.</releaseNotes>
